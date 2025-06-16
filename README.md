@@ -7,17 +7,6 @@ JDK 17 ou superior
 Maven 3.9+
 
 MySQL 8
-
-🚧 Preparando o ambiente
-1. Faça o clone do repositório:
-bash
-Copiar
-Editar
-git clone https://github.com/devefrens/atividade-crud-2bim-spring.git
-cd jwt-auth-api
-2. Configuração do Banco de Dados:
-Antes de rodar a aplicação, crie o banco de dados chamado jwt_db no MySQL:
-
 sql
 Copiar
 Editar
